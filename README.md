@@ -26,15 +26,9 @@ This section explains how to run the training code. Once the configuration is se
 ## Output
 This section shows the output performance of the algorithms.
 
-### i. Videos
+### i. Sample Video of DQN
 #### DQN
-[![Custom Video Title](https://user-images.githubusercontent.com/44564963/206376512-077cf56a-ef74-4dc5-8aef-c9a5ca7aef8e.mp4)](https://user-images.githubusercontent.com/44564963/206376512-077cf56a-ef74-4dc5-8aef-c9a5ca7aef8e.mp4)
-
 https://user-images.githubusercontent.com/44564963/206376512-077cf56a-ef74-4dc5-8aef-c9a5ca7aef8e.mp4
-#### DQN-MR
-https://user-images.githubusercontent.com/44564963/206376630-006774c7-4f95-4b37-b996-64f93856dc52.mp4
-#### DQN-PER
-https://user-images.githubusercontent.com/44564963/206376766-f89ee071-7fe4-4bf3-aff2-a2c8fd99b128.mp4
 
 ### ii. Training Plots
 
